@@ -35,9 +35,7 @@ https://ezgif.com/optimize/ezgif-3-cdd941cfbb.gif
 
 ## Notes
 
-Describe any challenges encountered while building the app.
-
-It was pretty much easy.
+It was pretty much easy, but time consuming.
 
 ## License
 
