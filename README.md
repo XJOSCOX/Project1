@@ -28,7 +28,7 @@ I need to make the events list open in another page instead of a link.
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://im3.ezgif.com/tmp/ezgif-3-f1171a354b.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/Kntgnbo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
 https://ezgif.com/optimize/ezgif-3-cdd941cfbb.gif
