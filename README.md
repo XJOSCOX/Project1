@@ -31,7 +31,7 @@ Here's a walkthrough of implemented required features:
 <img src='https://i.imgur.com/Kntgnbo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  
-https://ezgif.com/optimize/ezgif-3-cdd941cfbb.gif
+https://i.imgur.com/Kntgnbo.gif
 
 ## Notes
 
